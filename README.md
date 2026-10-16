@@ -123,7 +123,7 @@ Organize recorded measurements for personal reference.
 
 <div align="center">
 
-<!-- Replace this with your actual project screenshot -->
+
 
 <img src="Kiosk.jpg" width="80%" alt="KioskPro dashboard screenshot"/>
 
@@ -197,7 +197,7 @@ The proposed design focuses on clear information, readable text, and simple navi
 ![Storage](https://img.shields.io/badge/Storage-Local%20Database-FCE7F3?style=flat-square)
 ![Accessibility](https://img.shields.io/badge/Design-Accessibility-E8A1BF?style=flat-square)
 
-The final programming language, framework, and database will depend on the technologies selected for the prototype.
+
 
 ---
 
